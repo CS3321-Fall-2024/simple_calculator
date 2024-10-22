@@ -2,7 +2,7 @@
 
 import pytest
 import math
-from calculator.simple_calculator import (
+from calculator.calculator import (
     squareNums,
     triNums,
     lazyCaterer,
