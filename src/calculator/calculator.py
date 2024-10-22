@@ -28,7 +28,7 @@ def cubeNums(n):
 
 def circNum(n):
     """Calculates the circumfrence of a circle from the provided radius"""
-    return 2*(math.pi)*r
+    return 2*(math.pi)*n
     
 
 def surfArea(n):
